@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+    <title>Tinygram</title>
+</svelte:head>
+
+<h1>Tinygram</h1>
+<p>Bienvenue sur Tinygram le réseau social du futur machallah.</p>
